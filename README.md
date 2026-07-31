@@ -103,7 +103,6 @@ Production-oriented AI project combining Computer Vision, RAG, and LLMs for snak
 <br><br>
 `Python` `PyTorch` `OpenCV` `FastAPI` `LangChain` `ChromaDB` `Hugging Face` `Docker`
 <br>
-🚧 Active Development
 
 </td>
 <td width="50%" valign="top">
