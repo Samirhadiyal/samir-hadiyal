@@ -14,11 +14,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Diploma Computer Engineering student (3rd year) at **AVPTI, Rajkot**, focused on AI/ML
-- 🔭 Currently building **SnakeSense** — a CV + RAG + LLM species identification system
+- 🎓 Diploma Computer Engineering Graduate From **AVPTI, Rajkot**.
 - 🌱 Learning to design ML systems the way production teams do: versioned, tested, deployable
 - 💼 Prior experience as an **ML Engineer Intern @ Sparks to Ideas** and **Python Intern @ Ramora Technologies**
-- 🎯 Actively looking for **AI/ML internships and entry-level roles** in India
+- 🎯 Actively looking for **AI/ML internships and entry-level roles** 
 - ⚡ I enjoy working at the intersection of **data, logic, and clean system design**
 
 ---
