@@ -96,14 +96,27 @@
 <tr>
 <td width="50%" valign="top">
 
+** [llm-eval-cicd](https://github.com/Samirhadiyal/llm-eval-cicd)**
+<br>
+Multi-document RAG service where the eval system is the point, hybrid retrieval + reranking, LLM-judge scoring calibrated against human ground truth, and a CI/CD gate that blocks regressions, not just low scores.
+<br><br>
+`Python` `FastAPI` `VectoDB` `ChromaDB` `LLMs` `CI/CD`
+<br>
+
+</td>
+
+<td width="50%" valign="top">
+
 **🐍 [SnakeSense](https://github.com/Samirhadiyal/SnakeSense)**
 <br>
 Production-oriented AI project combining Computer Vision, RAG, and LLMs for snake species identification — from dataset engineering to a deployed backend.
 <br><br>
-`Python` `PyTorch` `OpenCV` `FastAPI` `LangChain` `ChromaDB` `Hugging Face` `Docker`
+`Python` `PyTorch` `OpenCV` `FastAPI` `LangChain` `ChromaDB` `Hugging Face` 
 <br>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **📖 [ai-engineering-core](https://github.com/Samirhadiyal/ai-engineering-core)**
@@ -113,8 +126,8 @@ A structured, from-scratch collection of ML algorithms and concepts, built with 
 `Python` `NumPy` `Jupyter Notebook`
 
 </td>
-</tr>
-<tr>
+
+
 <td width="50%" valign="top">
 
 **⭐ [Review Authenticity & Sentiment Analysis](https://github.com/Samirhadiyal/review-authenticity-sentiment-analysis)**
@@ -125,6 +138,8 @@ End-to-end NLP system that flags potentially fake reviews before running sentime
 `Python` `Scikit-learn` `TF-IDF` `Streamlit` `Pandas` `NumPy`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **🛒 [SmartCart-clustering-system](https://github.com/Samirhadiyal/SmartCart-clustering-system)**
@@ -134,8 +149,8 @@ Unsupervised clustering pipeline segmenting 2,240 retail customers into 4 behavi
 `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Kneed`
 
 </td>
-</tr>
-<tr>
+
+
 <td width="50%" valign="top">
 
 **💬 [AI-Powered-Dialogue-Summarizer](https://github.com/Samirhadiyal/AI-Powered-Dialogue-Summarizer)**
