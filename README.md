@@ -96,7 +96,7 @@
 <tr>
 <td width="50%" valign="top">
 
-** [llm-eval-cicd](https://github.com/Samirhadiyal/llm-eval-cicd)**
+**֎ [llm-eval-cicd](https://github.com/Samirhadiyal/llm-eval-cicd)**
 <br>
 Multi-document RAG service where the eval system is the point, hybrid retrieval + reranking, LLM-judge scoring calibrated against human ground truth, and a CI/CD gate that blocks regressions, not just low scores.
 <br><br>
