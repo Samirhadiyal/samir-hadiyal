@@ -10,15 +10,6 @@
   <a href="https://github.com/Samirhadiyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-### 🚀 About Me
-
-- 🎓 Diploma Computer Engineering Graduate From **AVPTI, Rajkot**.
-- 🌱 Learning to design ML systems the way production teams do: versioned, tested, deployable
-- 💼 Prior experience as an **ML Engineer Intern @ Sparks to Ideas** and **Python Intern @ Ramora Technologies**
-- 🎯 Actively looking for **AI/ML internships and entry-level roles** 
-- ⚡ I enjoy working at the intersection of **data, logic, and clean system design**
 
 ---
 
