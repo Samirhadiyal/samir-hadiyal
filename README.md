@@ -154,15 +154,4 @@ Abstractive dialogue summarization using a fine-tuned T5-Small Transformer, serv
 </tr>
 </table>
 
----
 
-### 📈 Current Focus
-
-- Strengthening core ML and Deep Learning fundamentals
-- Building applied GenAI systems with RAG and LLM pipelines
-- Shipping end-to-end, production-style AI projects
-- Preparing for internships and placements
-
----
-
-<p align="center"><i>Open to AI/ML internship opportunities — feel free to connect!</i></p>
